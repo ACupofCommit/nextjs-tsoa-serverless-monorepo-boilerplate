@@ -1,8 +1,7 @@
 {
-  "name": "typescript-serverless-tsoa",
-  "version": "1.0.0",
-  "description": "Serverless webpack example using Typescript",
-  "main": "handler.js",
+  "name": "@ntsmb/server",
+  "version": "0.1.0",
+  "description": "Serverless boilerplate using TSOA",
   "scripts": {
     "tsoa": "ts-node -- tsoa.ts",
     "tsoa:watch": "nodemon --config nodemon-tsoa.json",
